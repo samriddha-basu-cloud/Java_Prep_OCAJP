@@ -1,12 +1,16 @@
 # Java OCAJP Certification Prep Repository 📚💻
 
+---
+
 Welcome to the Java OCAJP Certification Preparation Repository! 
 
-![Java Icon](https://github.com/github/visuals/blob/main/practices/java/java.png) ![YouTube Icon](https://github.com/github/visuals/blob/main/practices/community/YouTube.png)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe%20on-YouTube-red?logo=youtube)](https://www.youtube.com/channel/UCN5U7wwhFHhG8vCa1QaAEnA)
+[![YouTube](https://img.shields.io/badge/Subscribe%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCN5U7wwhFHhG8vCa1QaAEnA)
 
 This repository is a platform for you to practice Java programming and prepare for the OCAJP certification exam. 🚀
+
+---
 
 ## How to Contribute
 
@@ -18,6 +22,8 @@ This repository is a platform for you to practice Java programming and prepare f
 6. Keep your forked repository updated.
 7. Submit Pull Requests for merging your solutions.
 
+---
+
 ## Stay Engaged and Support Us
 
 - ⭐ Star this repository to show your appreciation.
@@ -25,6 +31,8 @@ This repository is a platform for you to practice Java programming and prepare f
 - Follow me on GitHub: [Follow @samriddha-basu-cloud](https://github.com/samriddha-basu-cloud)
 - Connect on LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/samriddha-basu-cloud)
 - Subscribe to my YouTube channel: [Subscribe on YouTube](https://www.youtube.com/channel/UCN5U7wwhFHhG8vCa1QaAEnA)
+
+---
 
 ## Why Java & OCAJP?
 
